@@ -50,7 +50,8 @@ This project was completed as a final project for an Embedded Systems course and
 - A finite state machine manages playback state transitions  
 - Button inputs control transitions between STOP and PLAY states  
 - LCD output reflects system state and current note being played
-- <img width="2523" height="1167" alt="image" src="https://github.com/user-attachments/assets/e0331ef1-f6b2-4739-a1cb-b99cfd5773c8" />
+- Pictorial description of project:
+<img width="2523" height="1167" alt="image" src="https://github.com/user-attachments/assets/e0331ef1-f6b2-4739-a1cb-b99cfd5773c8" />
 
 
 Peripheral configuration and timing calculations were implemented by referencing the MSPM0G3507 microcontroller datasheet and TI BoosterPack documentation.
