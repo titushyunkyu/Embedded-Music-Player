@@ -55,3 +55,7 @@ This project was completed as a final project for an Embedded Systems course and
 
 
 Peripheral configuration and timing calculations were implemented by referencing the MSPM0G3507 microcontroller datasheet and TI BoosterPack documentation.
+
+---
+
+## Video Demonstration
