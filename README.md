@@ -58,4 +58,5 @@ Peripheral configuration and timing calculations were implemented by referencing
 
 ---
 
-## Video Demonstration
+**Demo video:**  
+https://drive.google.com/file/d/1QaU5ndpxEhTtLoOLMgFsvkJbpbHPZgmP/view
